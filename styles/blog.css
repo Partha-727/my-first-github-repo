@@ -6,5 +6,7 @@ div{
 li{
     font-style: oblique;
     color: violet;
-
+}
+img{
+    border: 10px;
 }
